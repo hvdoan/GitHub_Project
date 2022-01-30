@@ -1,2 +1,11 @@
-# GitHub_Project
-This is a project for the third year of the ESGI
+# Experimental calculator project
+
+---
+### Author :
+- Hoai-Viet Luc DOAN
+
+### Current version :
+none
+
+### Description :
+This is an experimental calculator.
